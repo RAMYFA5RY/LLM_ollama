@@ -1,4 +1,4 @@
-# J.A.R.V.I.S. AI Assistant
+# J.A.R.V.I.S. - Offline AI Assistant
 
 Just A Rather Very Intelligent System - An AI assistant with perfect memory and contextual awareness.
 
